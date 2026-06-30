@@ -44,11 +44,12 @@ Roles disponibles: promotor, brigadier, vacunador
 Aqui tenemos lo que es el dashboard este como se dijo en las caracteristicas de la aplicacion, esta nos presentara:
     Visualización de estadísticas generales (sectores totales, coordinadores, vacunaciones).
     Actividad reciente del sistema.
-    y en la parte inferir tenemos las demas funciones.
+    Y en la parte inferir tenemos las demas funciones.
 
 ![App Screenshot](https://github.com/Andrew-Joel-Paillacho/Prueba_Vacunacion_Canina_Felina/blob/main/recursos/promotor_1.png)
 
 ### Gestión de Sectores
+Mostrara lo siguiente:
     Visualización de todos los sectores creados
     Información del coordinador asignado
     Número de vacunaciones por sector
@@ -56,6 +57,7 @@ Aqui tenemos lo que es el dashboard este como se dijo en las caracteristicas de 
 ![App Screenshot](https://github.com/Andrew-Joel-Paillacho/Prueba_Vacunacion_Canina_Felina/blob/main/recursos/promotor_2.png)
 
 ### Gestión de Coordinadores
+Mostrara lo siguiente:
     Selección de sector
     Selección de coordinador
     Confirmación de asignación
@@ -73,6 +75,7 @@ Este dashboard nos presentara in interfaz que nos muestra lo siguiente:
 ![App Screenshot](https://github.com/Andrew-Joel-Paillacho/Prueba_Vacunacion_Canina_Felina/blob/main/recursos/brigadier_1.png)
 
 ### Gestión de Sectores Asignados
+Mostrara lo siguiente:
     Lista de sectores bajo su responsabilidad
     Número de vacunadores por sector
     Vacunaciones del día
@@ -80,6 +83,7 @@ Este dashboard nos presentara in interfaz que nos muestra lo siguiente:
 ![App Screenshot](https://github.com/Andrew-Joel-Paillacho/Prueba_Vacunacion_Canina_Felina/blob/main/recursos/brigadier_2.png)
 
 ### Gestión de Vacunadores
+Mostrara lo siguiente:
     Selección de sector
     Selección de vacunador
     Confirmación de asignación
@@ -87,6 +91,7 @@ Este dashboard nos presentara in interfaz que nos muestra lo siguiente:
 ![App Screenshot](https://github.com/Andrew-Joel-Paillacho/Prueba_Vacunacion_Canina_Felina/blob/main/recursos/brigadier_3.png)
 
 ### Corrección de Registros
+Mostrara lo siguiente:
     Visualización del registro a corregir
     Campo de nuevas observaciones
     Confirmación de corrección
@@ -96,6 +101,7 @@ Este dashboard nos presentara in interfaz que nos muestra lo siguiente:
 ## Rol: Vacunador
 
 ### Dashboard Principal
+Mostrara lo siguiente:
     Visualización del sector asignado
     Estadísticas personales (mis registros, pendientes, completados)
     Últimos registros realizados
