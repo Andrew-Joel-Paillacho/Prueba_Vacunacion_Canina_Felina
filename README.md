@@ -192,4 +192,4 @@ En mi caso tube problemas haciendo correr la ultima linea presentada anteriormen
 ## Video de demostración
 [![Video de demostración](https://youtu.be/C_QPBrbTD1A?si=R1S35_C-SXCBRTq7)
 
-[![YouTube](https://github.com/Andrew-Joel-Paillacho/Prueba_Vacunacion_Canina_Felina/blob/main/recursos/splashscreem.png)](https://youtu.be/C_QPBrbTD1A?si=R1S35_C-SXCBRTq7)
+[![YouTube](https://github.com/Andrew-Joel-Paillacho/Prueba_Vacunacion_Canina_Felina/blob/main/recursos/video.png)](https://youtu.be/C_QPBrbTD1A?si=R1S35_C-SXCBRTq7)
